@@ -1,5 +1,5 @@
 [phases.setup]
-nixPkgs = ['mdbook', 'cargo', 'gcc']
+nixPkgs = ['mdbook', 'cargo', 'gcc', 'python3']
 
 [phases.install]
 cmds = [
@@ -11,4 +11,4 @@ cmds = [
 cmds = ['export PATH="/root/.cargo/bin:$PATH" && mdbook build']
 
 [start]
-cmd = 'export PATH="/root/.cargo/bin:$PATH" && mdbook serve --hostname 0.0.0.0 --port 3000'
+cmd = 'cd book && python3 -m http.server 3000'
