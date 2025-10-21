@@ -1,9 +1,9 @@
 {
-  "name": "cleversuite-help",
-  "version": "1.0.0",
-  "description": "CleverSuite Help Documentation",
-  "scripts": {
-    "build": "mdbook build",
-    "serve": "mdbook serve"
-  }
+	"name": "cleversuite-help",
+	"version": "1.0.0",
+	"description": "CleverSuite Help Documentation",
+	"scripts": {
+		"build": "mdbook build",
+		"serve": "mdbook serve"
+	}
 }
