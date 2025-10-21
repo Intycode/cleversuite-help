@@ -8,7 +8,7 @@ cmds = [
 ]
 
 [phases.build]
-cmds = ['mdbook build']
+cmds = ['export PATH="/root/.cargo/bin:$PATH" && mdbook build']
 
 [start]
-cmd = 'mdbook serve --hostname 0.0.0.0 --port 3000'
+cmd = 'export PATH="/root/.cargo/bin:$PATH" && mdbook serve --hostname 0.0.0.0 --port 3000'
