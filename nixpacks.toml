@@ -1,5 +1,5 @@
 [phases.setup]
-nixPkgs = ['mdbook', 'cargo']
+nixPkgs = ['mdbook', 'cargo', 'gcc']
 
 [phases.install]
 cmds = [
