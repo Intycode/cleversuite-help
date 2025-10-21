@@ -1,5 +1,5 @@
 [phases.setup]
-nixPkgs = ['mdbook']
+nixPkgs = ['mdbook', 'mdbook-i18n']
 
 [phases.install]
 cmds = ['echo "Skipping npm install"']
