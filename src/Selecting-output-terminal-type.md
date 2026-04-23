@@ -15,7 +15,7 @@ This table defines the type of output terminal that the applications will choose
 3 = Wire <br>
 4 = Multi wire<br>
 In case the output type is valid for more than one conductor, enter 1 code in sequence.<br>
-***Esempio:
+***
 Example:
 If the output type is valid for both wire and flat wire enter: 13
 .***

@@ -8,7 +8,7 @@ Using this table you can modify the default data by inserting those that best ma
 
 
 
-### Table fields (Heat shrink tapes)
+### Table fields
 
 - **Temperature Class**: temperature class for which the material and thickness introduced here are chosen.
 - **Material**: abbreviation of the material. By opening the drop-down menu in the Material field you see the list of all available materials and you can choose the correct abbreviation.
