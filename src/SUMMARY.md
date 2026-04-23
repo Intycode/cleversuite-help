@@ -23,7 +23,7 @@
     - [Multi wire cables](./Multi-wire-cables.md)
     - [Conductors](./Conductors.md)
     - [Nuts](./Nuts.md)
-    - [Steel ducts](./Steel-ducts.md)
+    - [Ducts](./Ducts.md)
     - [Spacers for bobbins](./Spacers-for-bobbins.md)
     - [Eyebolts](./Eyebolts.md)
     - [Sheaths](./Sheaths.md)

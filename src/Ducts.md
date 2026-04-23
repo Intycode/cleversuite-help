@@ -1,9 +1,9 @@
-# Steel Ducts
+# Ducts
 
 ## Introduction
-Steel ducts are used for the formation of **front or side** cooling channels in transformer or inductor windings. They are not suitable for channels along the entire perimeter of the coil. The shape is generally C-shaped as shown in the figure above and there are C-shaped variants with rounded edges.
-They can be made of Ac Zn for transformer core/coil channels. In all other cases, the recommended material is AC 18/10 stainless steel. 
 
+Steel ducts are used for the formation of **front or side** cooling channels in transformer or inductor windings. They are not suitable for channels along the entire perimeter of the coil. The shape is generally C-shaped as shown in the figure above and there are C-shaped variants with rounded edges.
+They can be made of Ac Zn for transformer core/coil channels. In all other cases, the recommended material is AC 18/10 stainless steel.
 
 <img src="img/Distanziatori.jpg" height="120px">
 
@@ -16,4 +16,4 @@ They can be made of Ac Zn for transformer core/coil channels. In all other cases
 - **Length**: length of the steel duct. If the steel duct is made from a sheet of metal with a length > the height of the windings. This measurement can be omitted.
 - **Thickness**: the thickness of the steel sheet from which the steel ducts is cut.
 - **Channel**: the thickness of the cooling channel that the steel duct produces.
-- **Article**: To select the material, use the article code of your management system. This value will allow the applications to retrieve the description and unit cost into the table ***Material Unit Cost*** by importing the list of materials available in your warehouse.
+- **Article**: To select the material, use the article code of your management system. This value will allow the applications to retrieve the description and unit cost into the table **_Material Unit Cost_** by importing the list of materials available in your warehouse.
